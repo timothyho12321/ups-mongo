@@ -1,0 +1,46 @@
+[
+    {
+        "_id": 1001,
+        "weight": "30",
+        "final-delivery-date": "2022-10-03",
+        "insurance-amount": 100,
+        "destination": "Sembawang",
+        "dimensions": {
+            "length": 10,
+            "width": 10,
+            "height": 10
+        },
+        "status":{
+            "result":"2022-09-01",
+            "time":"0900"
+        },
+        "client-id": 1234
+    },
+    {
+        "_id": 1002,
+        "weight": "40",
+        "final-delivery-date": "2022-10-04",
+        "insurance-amount": 102,
+        "destination": "Toa Payoh",
+        "dimensions": {
+            "length": 25,
+            "width": 25,
+            "height": 25
+        },
+        
+        "clients": [1234, 1235]
+    },
+    {
+        "_id": 1003,
+        "weight": "35",
+        "final-delivery-date": "2022-11-03",
+        "insurance-amount": 500,
+        "destination": "Hougang",
+        "dimensions": {
+            "length": 40,
+            "width": 40,
+            "height": 40
+        },
+        "client-id": 1236
+    }
+]

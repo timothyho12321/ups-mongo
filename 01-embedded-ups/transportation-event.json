@@ -1,0 +1,49 @@
+[
+    {
+        "id": 5001,
+        "transport-mode": "train",
+        "delivery-route": {
+            "last-destination": "Yishun",
+            "confirmation": "yes"
+        },
+        "transport-worker": {
+            "name": "John",
+            "contact": "91234567",
+            "working-hour": "0900-1700"
+        },
+        "item": [
+            1002,
+            1003
+        ]
+    },
+    {
+        "id": 5002,
+        "transport-mode": "plane",
+        "delivery-route": {
+            "last-destination": "Orchard",
+            "confirmation": null
+        },
+        "transport-worker": {
+            "name": "Bean",
+            "contact": "91234568",
+            "working-hour": "2300-0800"
+        },
+        "item": [
+            1001
+        ]
+    },
+    {
+        "id": 5003,
+        "transport-mode": "truck",
+        "delivery-route": {
+            "last-destination": "Orchard",
+            "confirmation": null
+        },
+        "transport-worker": {
+            "name": "Jeremy",
+            "contact": "91234569",
+            "working-hour": "0900-1700"
+        },
+        "item": null
+    }
+]

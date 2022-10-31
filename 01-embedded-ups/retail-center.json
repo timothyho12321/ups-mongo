@@ -1,0 +1,27 @@
+[
+    {
+        "type": "storage",
+        "id": 3001,
+        "address": "Tuas",
+        "contact": 81231234,
+        "item": null
+    },
+    {
+        "type": "dry-room",
+        "id": 3002,
+        "address": "Changi",
+        "contact": 81231235,
+        "item": [
+            1002,
+            1003
+        ]
+    },
+    {
+        "type": "cold-room",
+        "id": 3003,
+        "address": "Pasir Panjang",
+        "contact": 81231236,
+        "item": 1001
+    }
+
+]
